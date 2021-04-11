@@ -10,7 +10,7 @@ Timeular Pomodoro allows you to set end times to any of your Timeular activities
 1. Clone this repository
 2. cd to your repository folder
 3. Create a file named .env
-4. In your .env file, define the following variables.
+4. In your .env file, define the following variables, replacing the API_KEY and API_SECRET values with the matching values from your Timeular profile.
    
 ```
 API_KEY=3sLznaE3ZG7B66UZ1NE68ytlwYViJH0F6BeQaLlHHUIkF7IZ9lh3
@@ -19,10 +19,10 @@ API_ACTIVITIES=[{"name":"Break", "time":"6"},{"name":"Lunch", "time":"31"}]
 ```
 5. Set your local docker instance to run Linux containers
 6. Run the docker-compose.yml file using the following command:
-7. In your local Timeular settings, go to Reminders and Emails, and uncheck "Reminder Long Time Entries".
 ```
     docker-compose up
 ```
+7. In your local Timeular settings, go to Reminders and Emails, and uncheck "Reminder Long Time Entries".
 
 ## Usage Example
 I typically like to set my time as 25 minutes of Dev Work and 5 minutes of Break. I also typically take a 1/2 hour lunch at some point during the day.
