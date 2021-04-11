@@ -39,7 +39,7 @@ _Note that each of my items is one more minute than desired_
 
 ## Meta
 
-Bruce Parr - [@bruber4151](https://twitter.com/bruber4151) - bp4151 plus timeluar_pomodoro at gmail dot com 
+Bruce Parr - [@bruber4151](https://twitter.com/bruber4151) - bp4151 plus timeular_pomodoro at gmail dot com 
 
 Distributed under the GPL-3.0 license. See ``LICENSE`` for more information
 
