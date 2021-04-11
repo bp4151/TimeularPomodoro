@@ -39,10 +39,9 @@ _Note that each of my items is one more minute than desired_
 
 ## Meta
 
-Bruce Parr
-Twitter - [@bruber4151](https://twitter.com/bruber4151) 
-LinkedIn - [linkedin.com/in/bruceparr](linkedin.com/in/bruceparr)
+Bruce Parr  
+Twitter - [@bruber4151](https://twitter.com/bruber4151)  
+LinkedIn - [https://linkedin.com/in/bruceparr](https://linkedin.com/in/bruceparr)
 
-Distributed under the GPL-3.0 license. See ``LICENSE`` for more information
-
-[https://github.com/bp4151/github-link](https://github.com/dbader/)
+Distributed under the GPL-3.0 license. See ``LICENSE`` for more information  
+[https://github.com/bp4151/TimeularPomodoro](https://github.com/bp4151/TimeularPomodoro)
