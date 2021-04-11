@@ -19,9 +19,9 @@ API_ACTIVITIES=[{"name":"Break", "time":"6"},{"name":"Lunch", "time":"31"}]
 ```
 5. Set your local docker instance to run Linux containers
 6. Run the docker-compose.yml file using the following command:
-7. In your local Timular settings, go to Reminders and Emails, and uncheck "Reminder Long Time Entries".
+7. In your local Timeular settings, go to Reminders and Emails, and uncheck "Reminder Long Time Entries".
 ```
-    docker-compose --env-file .env up
+    docker-compose up
 ```
 
 ## Usage Example
