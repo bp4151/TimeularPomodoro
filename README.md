@@ -40,7 +40,7 @@ _Note that each of my items is one more minute than desired_
 ## Meta
 
 Bruce Parr
-Twitter - [@bruber4151](https://twitter.com/bruber4151)
+Twitter - [@bruber4151](https://twitter.com/bruber4151) 
 LinkedIn - [linkedin.com/in/bruceparr](linkedin.com/in/bruceparr)
 
 Distributed under the GPL-3.0 license. See ``LICENSE`` for more information
