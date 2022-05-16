@@ -4,10 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "==2.25.1"
+requests = "==2.27.1"
 python-dotenv = "*"
 schedule = "*"
 python-dateutil = "*"
+urllib3 = "==1.26.9"
 
 [dev-packages]
 
