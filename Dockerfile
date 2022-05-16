@@ -1,4 +1,7 @@
 FROM python:3.9-slim-bullseye
+
+RUN apt-get update && apt-get upgrade -y
+
 WORKDIR /code
 
 ENV API_KEY=${API_KEY}
