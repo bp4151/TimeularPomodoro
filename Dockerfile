@@ -1,5 +1,5 @@
 FROM python:3.10-slim-bullseye
-RUN apt-get update && apt-get upgrade -y && apt-get install openssl && apt-get clean && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get upgrade -y && apt-get -y install --no-install-recommends openssl && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /code
 
